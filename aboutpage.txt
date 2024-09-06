@@ -3,8 +3,5 @@ Change 1 from github website
 Change 2 from github website
 Change 3 from github website
 Change 4 from local git
-<<<<<<< HEAD
 Change 5 from local git
-=======
 Change 5 from github website
->>>>>>> 1da38c67a1cff3edb1a9cfda5fcf9614c560c99d
