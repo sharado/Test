@@ -1,1 +1,3 @@
 multiply feature in feature 1 branch
+changed in mytestbranch1
+changed in feature 1 branch
